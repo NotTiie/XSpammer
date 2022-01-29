@@ -1,0 +1,2 @@
+# XSpammer
+Discord raiding tool
