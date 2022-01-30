@@ -2,7 +2,6 @@
 
 Discord raiding tool with 20 features.
 
-Decided to release this for free, sorry buyers!
 
 # [YT Showcase](https://www.youtube.com/watch?v=NMCPKZmYvFA)
 
