@@ -15,3 +15,8 @@ Python 3.7+ [https://python.org]
 Run setup.bat to install the essential python modules.
 
 Setup.bat should install most of the modules, if the setup doesn't work, try to install them manually or open an issue with a screenshot of the error.
+
+
+# Credits
+
+H0LLOW
