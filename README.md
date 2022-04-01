@@ -1,6 +1,6 @@
 # XSpammer
 
-Discord raiding tool with 20 features.
+Discord raiding tool with 20 features. [FOR EDUCATIONAL PURPOSES]
 
 
 # [YT Showcase](https://www.youtube.com/watch?v=NMCPKZmYvFA)
