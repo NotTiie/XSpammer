@@ -1,7 +1,6 @@
 import subprocess, colorama
 from numpy.random.mtrand import hypergeometric
 import base64
-from discum.gateway.session import guild
 import requests, sys, time, discord_webhook
 from discord_webhook import DiscordEmbed, DiscordWebhook
 import string, threading, random, json, os, pyfiglet
